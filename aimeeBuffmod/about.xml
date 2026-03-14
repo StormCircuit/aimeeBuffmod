@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>Storm's Aimee Buff</Name>
-    <Author>StormCircuit</Author>
-    <Version>1</Version>
-
-    <Description>
-       Simple mod to double the storm health of aimee and double her speed.
-
-    </Description>
-
-    <ChangeLog>
-        v1.0.0: Initial release
-    </ChangeLog>
-
-    <InGameDescription>
-       Simple mod to double the storm health of aimee and double her speed.
-    </InGameDescription>
+<?xml version="1.0" encoding="utf8"?>
+<ModMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Storms Aimee Buff</Name>
+  <Author>StormCircuit</Author>
+  <Version>1.0</Version>
+  <Description>Simple mod to double the storm health of aimee and double her speed.</Description>
 </ModMetadata>
